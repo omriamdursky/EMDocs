@@ -64,7 +64,6 @@ The integration between Microsoft Cloud App Security and Azure Sentinel is not s
 
 The following integrations are not available:
 
-- Microsoft Defender Advanced Threat Protection
 - Surfacing Microsoft Cloud App Security controls in Microsoft Secure Score
 
 ## Next steps
